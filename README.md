@@ -1,2 +1,2 @@
 # Real-Estate-Sample
-Template
+To View Template Online
